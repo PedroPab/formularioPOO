@@ -1,0 +1,23 @@
+{
+  "name": "Domiburguer App",
+  "short_name": "Domiburguer",
+	"description": "¡Haz tu pedido de hamburguesas , creamos nuestro porpio sabor!",
+  "orientation": "portrait",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffffff",
+  "icons": [
+    {
+      "src": "/otros/logo_32x32-05.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/otros/LOGO_DOMI-03.png",
+      "sizes": "1074x1015",
+      "type": "image/png"
+    }
+  ]
+  
+}

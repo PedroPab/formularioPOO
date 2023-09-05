@@ -1,0 +1,29 @@
+Política de privacidad
+
+Bienvenido a Arceliuz, una aplicación web de pedidos de hamburguesas. En Arceliuz valoramos su privacidad y seguridad de sus datos personales. En este documento, se describen los tipos de información que recopilamos y cómo la utilizamos para brindarle una experiencia óptima en nuestra plataforma.
+
+Información que recopilamos:
+
+    Nombre
+    Dirección de correo electrónico
+    Número de teléfono
+    Dirección de envío
+    Información de pago
+    Cómo utilizamos su información:
+
+Para procesar sus pedidos
+    Para enviarle actualizaciones sobre su pedido
+    Para mejorar nuestros servicios y ofrecer una experiencia personalizada
+    
+Seguridad de su información:
+
+Encriptamos todos sus datos sensibles, incluyendo información de pago, para protegerlos contra accesos no autorizados.
+Restringimos el acceso a su información solo a los empleados necesarios para realizar sus pedidos y proporcionar un servicio de atención al cliente de calidad.
+Cambios a esta política de privacidad:
+
+Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento, por lo que le recomendamos revisarla periódicamente.
+Si realizamos cambios significativos en cómo utilizamos su información, le informaremos antes de implementar dichos cambios.
+Si tiene alguna pregunta o inquietud sobre cómo protegemos su privacidad en Arceliuz, por favor, no dude en contactarnos.
+
+Aceptación de los términos:
+Al utilizar nuestra plataforma, usted acepta los términos y condiciones descritos en esta política de privacidad. Si no está de acuerdo con estos términos, por favor, no utilice nuestra aplicación.

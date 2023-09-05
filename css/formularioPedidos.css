@@ -1,0 +1,89 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Silkscreen&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap"); */
+
+@font-face {
+	font-family: "ChieezyBurger";
+	src: url("./../otros/fuentes/ChieezyBurger-Regular.ttf") format("woff2");
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Montserrat-Regular";
+	src: url("./../otros/fuentes/Montserrat-Regular.ttf") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Montserrat-ExtraBold";
+	src: url("./../otros/fuentes/Montserrat-ExtraBold.ttf") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Montserrat-BlackItalic";
+	src: url("./../otros/fuentes/Montserrat-BlackItalic.ttf") format("woff2");
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: "ChieezyBurger", sans-serif;
+}
+
+body {
+	background-image: url("./../img/pizarra.jpg");
+	background-repeat: repeat;
+	background-size: 90%;
+	background-position-y: 70px;
+	opacity: 1;
+}
+
+.money::before {
+	content: "$";
+}
+
+#map {
+	color: black;
+}
+
+input[type="text"],
+input[type="tel"],
+select,
+#formaPago,
+#comentario {
+	/* background-color: rgba(255, 255, 255, 0.7); */
+	/* blanco con 70% de opacidad */
+
+	font-family: "Montserrat", sans-serif;
+	/* font-size: 20px; */
+}
+
+.input-group {
+	font-family: "Montserrat", sans-serif;
+}
+
+.tipografiaBold {
+	font-family: "Inter Tight", sans-serif;
+}
+
+.tipografiaExtraBold {
+	font-family: "Montserrat-ExtraBold", sans-serif;
+}
+
+.tipografiaBlackItalic {
+	font-family: "Montserrat-BlackItalic", sans-serif;
+}
+
+.tipografiaMontserrat-Regular {
+	font-family: "Montserrat-Regular", sans-serif;
+}
+
+.tipografiaMontserrat {
+	font-family: "Montserrat", sans-serif;
+}
+
+.tipografiaChieezyBurger {
+	font-family: "ChieezyBurger", sans-serif;
+}
